@@ -1,0 +1,3 @@
+GasLimits:testGasLimit_Batch10() (gas: 269478)
+GasLimits:testGasLimit_Batch100() (gas: 2531119)
+GasLimits:testGasLimit_Batch50() (gas: 1274532)
